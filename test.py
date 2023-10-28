@@ -1,3 +1,5 @@
+# **** this script is used to generate random nested dirs with random files and random data
+# !!! IMPORTANT this might overload your CPU and RAM
 import os, random, sys
 
 
