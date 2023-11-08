@@ -5,7 +5,7 @@ try:
     TO = sys.argv[2]
 except:
     print("invalid input form")
-    print("python script [FROM] [TO]")
+    print("the correct input form is /"python script [FROM] [TO]/"")
     exit(0)
 
 def _read(path):
